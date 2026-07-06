@@ -54,7 +54,7 @@ Cybersecurity-Log-Analyzer/
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/Cybersecurity-Log-Analyzer.git
+git clone https://github.com/taniya-m11/Cybersecurity-Log-Analyzer.git
 ```
 
 2. Open the project folder
