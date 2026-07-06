@@ -119,8 +119,8 @@ Interested in:
 
 ### Terminal Output
 
-![Terminal Output](screenshots/terminal_output.png)
+![Terminal Output](terminal_output.png)
 
 ### Login Analysis Chart
 
-![Login Analysis](screenshots/login_analysis.png)
+![Login Analysis](login_analysis.png)
