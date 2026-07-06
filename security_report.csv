@@ -1,0 +1,7 @@
+Type,Value
+Successful Logins,2
+Failed Logins,4
+Risk Level,MEDIUM
+
+Suspicious IP,Failed Attempts
+192.168.1.15,3

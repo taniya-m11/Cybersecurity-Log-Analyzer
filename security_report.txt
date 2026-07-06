@@ -1,0 +1,15 @@
+=========================================
+     CYBERSECURITY LOG ANALYZER REPORT
+=========================================
+
+Generated On : 2026-07-06 22:51:37.328396
+
+Successful Logins : 2
+Failed Logins     : 4
+Risk Level        : MEDIUM
+
+Suspicious IP Addresses
+192.168.1.15 -> 3 failed login attempts
+
+Most Targeted User
+admin -> 3 failed login attempts
